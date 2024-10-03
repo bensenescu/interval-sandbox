@@ -1,6 +1,6 @@
 # Interval Sandbox
 
-This hosts Interval via SST. This is used for testing purposes to make SST Feature Flag easier to test and use.
+This hosts Interval via SST (see [interval.com](https://interval.com). This is used for testing purposes to make SST Feature Flag easier to test and use.
 
 This is a minimal setup to host Interval, and is not intended to be a production purposes. Additionally, it
 only has the minimum dependencies.
